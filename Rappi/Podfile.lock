@@ -1,0 +1,39 @@
+PODS:
+  - Alamofire (3.4.0)
+  - AZDropdownMenu (1.1.1)
+  - NVActivityIndicatorView (2.7)
+  - PMAlertController (1.0.4)
+  - SwiftyJSON (2.3.2)
+  - TransitionAnimation (3.0.4):
+    - TransitionTreasury (~> 3.0)
+  - TransitionTreasury (3.0.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.4)
+  - AZDropdownMenu
+  - NVActivityIndicatorView
+  - PMAlertController
+  - SwiftyJSON (from `https://github.com/SwiftyJSON/SwiftyJSON.git`)
+  - TransitionAnimation (~> 3.0.4)
+
+EXTERNAL SOURCES:
+  SwiftyJSON:
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+CHECKOUT OPTIONS:
+  SwiftyJSON:
+    :commit: 2a5b70f06001316d4fb54501edc70b4084705da0
+    :git: https://github.com/SwiftyJSON/SwiftyJSON.git
+
+SPEC CHECKSUMS:
+  Alamofire: c19a627cefd6a95f840401c49ab1f124e07f54ee
+  AZDropdownMenu: 0ba09d5f7b1b8dc795824ec281c4dde8515f4498
+  NVActivityIndicatorView: dc80f18fb27ac92f0aa87246cc13dc39ed3e9ee0
+  PMAlertController: 7f969c937a80bea634a5bf957b66943b493e1aca
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+  TransitionAnimation: d761c1a338f5333f4b02a184935e61a8dc14d0e4
+  TransitionTreasury: 7228b7758ba4b742e152a198dbe6ca1e46b43949
+
+PODFILE CHECKSUM: 4bb2b14fef93cdc6b0588561b83bcf34b3fc739b
+
+COCOAPODS: 1.0.1
