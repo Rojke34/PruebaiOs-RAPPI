@@ -1,5 +1,6 @@
 # PruebaiOs-RAPPI
 Test iOS Rappi
 
-Clone project and run Rappi.xcworkspace after run pod install
+Clone project and run pod install
+run Rappi.xcworkspace
 
